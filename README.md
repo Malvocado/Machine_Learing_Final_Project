@@ -16,3 +16,5 @@ Let's me guild you guy to my project step by step
 **Sooo, in order to solve this we will use another algoithm that i think is matches for the dataset we have (Random_Forest_Regressor).
 
 -3 (Random_Forest_Regressor_Model_Training):
+
+***I tried 3 more new algothms and still not working (i think it is the dataset problem)
